@@ -14,7 +14,7 @@ projects.forEach((project, i) => {
   link.innerText = `${i+1}. ${formatProjectName(project)}`;
 
   const img = document.createElement('img');
-  img.src = `/${project}/design/desktop-design.jpg`;
+  img.src = `/${project}/design/desktop-preview.jpg`;
 
   link.prepend(img);
   listItem.appendChild(link);
