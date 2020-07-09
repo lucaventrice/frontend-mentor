@@ -1,5 +1,5 @@
 # frontend-mentor
 
-My Frontend Mentor subm issions
+My Frontend Mentor projects
 
-See it [live](https://reverent-shirley-6a37fe.netlify.app/)
+See the live preview [here](https://reverent-shirley-6a37fe.netlify.app/).
