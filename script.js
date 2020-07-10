@@ -2,7 +2,8 @@ const projects = [
   'four-card-feature-section',
   'base-apparel-coming-soon',
   'signup-form',
-  'single-price-grid-component'
+  'single-price-grid-component',
+  'ping-coming-soon-page'
 ];
 
 const list = document.getElementById('list');
