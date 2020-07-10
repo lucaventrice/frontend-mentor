@@ -4,7 +4,8 @@ const projects = [
   'signup-form',
   'single-price-grid-component',
   'ping-coming-soon-page',
-  'huddle-landing-page'
+  'huddle-landing-page',
+  'huddle-single-section'
 ];
 
 const list = document.getElementById('list');
