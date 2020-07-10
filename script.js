@@ -4,7 +4,7 @@ const projects = [
   'signup-form',
   'single-price-grid-component',
   'ping-coming-soon-page',
-  'huddle-landing-page-with-alternating-feature-blocks'
+  'huddle-landing-page'
 ];
 
 const list = document.getElementById('list');
