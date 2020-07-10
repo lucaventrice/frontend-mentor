@@ -5,7 +5,8 @@ const projects = [
   'single-price-grid-component',
   'ping-coming-soon-page',
   'huddle-landing-page',
-  'huddle-single-section'
+  'huddle-single-section',
+  'fylo-landing-page'
 ];
 
 const list = document.getElementById('list');
