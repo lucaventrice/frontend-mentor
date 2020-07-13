@@ -7,7 +7,8 @@ const projects = [
   'huddle-landing-page',
   'huddle-single-section',
   'fylo-landing-page',
-  'insure-landing-page'
+  'insure-landing-page',
+  'pricing-component-toggle'
 ];
 
 const list = document.getElementById('list');
