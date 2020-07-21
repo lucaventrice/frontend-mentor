@@ -8,7 +8,8 @@ const projects = [
   'huddle-single-section',
   'fylo-landing-page',
   'insure-landing-page',
-  'pricing-component-toggle'
+  'pricing-component-toggle',
+  'project-tracking-intro'
 ];
 
 const list = document.getElementById('list');
