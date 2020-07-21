@@ -9,7 +9,8 @@ const projects = [
   'fylo-landing-page',
   'insure-landing-page',
   'pricing-component-toggle',
-  'project-tracking-intro'
+  'project-tracking-intro',
+  'clipboard-landing-page'
 ];
 
 const list = document.getElementById('list');
