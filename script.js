@@ -10,7 +10,8 @@ const projects = [
   'insure-landing-page',
   'pricing-component-toggle',
   'project-tracking-intro',
-  'clipboard-landing-page'
+  'clipboard-landing-page',
+  'job-listing'
 ];
 
 const list = document.getElementById('list');
