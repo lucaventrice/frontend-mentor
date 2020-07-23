@@ -10,8 +10,7 @@ const projects = [
   'insure-landing-page',
   'pricing-component-toggle',
   'project-tracking-intro',
-  'clipboard-landing-page',
-  'job-listing'
+  'clipboard-landing-page'
 ];
 
 const list = document.getElementById('list');
@@ -19,11 +18,11 @@ const list = document.getElementById('list');
 projects.forEach((project, i) => {
   const listItem = document.createElement('li');
   const link = document.createElement('a');
-  link.href = `/${project}/index.html` || `/${project}/public/index.html`;
+  link.href = `/${project}/index.html`;
   link.innerText = `${i+1}. ${formatProjectName(project)}`;
 
   const img = document.createElement('img');
-  img.src = `/${project}/design/desktop-preview.jpg` || `/${project}/public/design/desktop-preview.jpg`;
+  img.src = `/${project}/design/desktop-preview.jpg`;
 
   link.prepend(img);
   listItem.appendChild(link);
